@@ -1,4 +1,6 @@
 :q
 
+oneday
 
+hoge
 hoge
