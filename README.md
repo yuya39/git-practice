@@ -3,4 +3,3 @@
 oneday
 
 hoge
-hoge
